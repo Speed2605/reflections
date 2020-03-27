@@ -1,0 +1,5 @@
+it creates a git file
+i need it to start tracking git files
+
+in staging area you can add difirent files to commit together
+you can have same starting point for two files
