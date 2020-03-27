@@ -1,0 +1,11 @@
+bla bla
+blabla
+it listed only things that were wrong
+easier look
+you can choose when you think it is a good point to commit
+git allows multiple because they can be linked
+google docs uses separately because it uses only one program at time
+i can use git log to see all the logs that have been changed
+i can use git diff to see what has changed between 2 commits
+it makes me really confident when I can go back to previous state 
+i want to code some sh*t
