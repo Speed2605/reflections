@@ -2,3 +2,8 @@ If I go to diffirent computer or place, I can create file remotely.
 
 maybe there is something that I dont want to be pulled 
 
+Branches are used on local spot when you want to split your project in something else
+
+Clones are used to replicate existing commits on local or github
+
+Forks are used to copy someone else work but give them credit
