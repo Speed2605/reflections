@@ -1,0 +1,4 @@
+If I go to diffirent computer or place, I can create file remotely.
+
+maybe there is something that I dont want to be pulled 
+
