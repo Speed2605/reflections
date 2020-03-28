@@ -9,3 +9,7 @@ check git status
 if i want to try something new and keep the old version in difirent path
 
 it makes it easier to understand which branch is where
+
+we got an unique branch that has the same parent and all the changes in both branches
+
+git shows us if there is a conflict happening
